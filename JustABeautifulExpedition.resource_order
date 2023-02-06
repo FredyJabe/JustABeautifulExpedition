@@ -14,6 +14,9 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Controllers","order":1,"path":"folders/Objects/Controllers.yy",},
+    {"name":"Networking","order":2,"path":"folders/Objects/Networking.yy",},
+    {"name":"Steamworks","order":15,"path":"folders/Steamworks.yy",},
   ],
   "ResourceOrderSettings": [],
 }
