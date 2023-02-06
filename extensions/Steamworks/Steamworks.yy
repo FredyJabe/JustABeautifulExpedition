@@ -8,7 +8,7 @@
   "androidinject": "",
   "androidmanifestinject": "",
   "androidPermissions": [],
-  "androidProps": true,
+  "androidProps": false,
   "androidsourcedir": "",
   "author": "",
   "classname": "",
