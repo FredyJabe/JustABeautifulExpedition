@@ -1,0 +1,9 @@
+{
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null,
+  "extensionId": {
+    "name": "html5_gyro",
+    "path": "extensions/html5_gyro/html5_gyro.yy"
+  },
+  "resourceVersion": "1.0"
+}
